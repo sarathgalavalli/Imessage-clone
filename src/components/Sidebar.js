@@ -22,6 +22,8 @@ export default class Sidebar extends Component {
                 </div>
                 <div className="sidebar__chat">
                     <SideBarChat />
+                    <SideBarChat />
+                    <SideBarChat />
                 </div>
 
             </div>

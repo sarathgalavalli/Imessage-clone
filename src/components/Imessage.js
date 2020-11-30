@@ -8,6 +8,7 @@ export default class Imessage extends Component {
         return (
             <div className='imessage'>
                 <Sidebar />
+                <Chat />
             </div>
         )
     }
